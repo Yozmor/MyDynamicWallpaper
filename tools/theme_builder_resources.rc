@@ -1,3 +1,0 @@
-#include <windows.h>
-#define IDI_APP_ICON 200
-IDI_APP_ICON ICON "theme_builder.ico"
